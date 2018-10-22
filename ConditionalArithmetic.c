@@ -6,7 +6,8 @@
  * Author:	  Vinzent Kronreif
  * ----------------------------------------------------------
  * Description:
- *
+ * Adds or Multiplies every number, from 0 to the number the
+ * user choses, which can be divided by 3 or 5 without remainder.
  * ----------------------------------------------------------
 */
 
